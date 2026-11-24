@@ -63,6 +63,8 @@ RNF-08. Coherencia de Tipos de Datos entre SQL y Java: El esquema relacional en 
 
 
 # Diagrama-Clases 
+<img width="3725" height="1172" alt="diagrama_clases" src="https://github.com/user-attachments/assets/bbde4175-8ae7-47ad-aa50-4162833c13c7" />
 
 # Diagrama Relacion-Entidad
+<img width="861" height="426" alt="diagrama_er" src="https://github.com/user-attachments/assets/77eaf9c7-d840-4585-9243-6487cf08fc9f" />
 
