@@ -19,7 +19,7 @@ Decidir con argumentos en qué capa (modelo, base de datos o controladores) debe
 
 
 # Video
-
+https://alumnosuady-my.sharepoint.com/:v:/g/personal/a25216423_alumnos_uady_mx/IQBR29A8j6n0Rqz2RvA-GFXlAdY1VAXC126X19nnEqqHyxY?e=Hichq6
 
 # Requisitos
 
